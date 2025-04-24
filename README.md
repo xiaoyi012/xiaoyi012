@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Hello, my name is Xiaoyi
-I'm studying Financial management in NSYSU
-My interest is to play AOV, listen Japanese song, read novel
-The username is from my game ID
+Hello, my name is Xiaoyi.
+I'm studying Financial management in NSYSU.
+My interest is to play AOV, listen Japanese song, read novel.
+The username is from my game ID.
 Nice to meet you!!
